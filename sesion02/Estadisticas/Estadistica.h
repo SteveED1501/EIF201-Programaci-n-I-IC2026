@@ -7,4 +7,4 @@ int obtenerMenor(const int arreglo[], int tamano);
 int calcularSuma(const int arreglo[], int tamano);
 double calcularPromedio(const int arreglo[], int tamano);
 
-#endif
+#endif 
